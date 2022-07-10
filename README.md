@@ -30,21 +30,22 @@ If the excel file is in the same directory as the solveTruss.m file just write e
 ## Example
 We have a truss structure under load as follow:
 <p float="middle">
-    <img src="readme_img/Structure.png" width="600">
+    <img src="readme_img/Structure.PNG" width="600">
 </p>
 
 The nodes are indexed in this way:
 
 <p float="middle">
-    <img src="readme_img/NodesIndex.png" width="600">
+    <img src="readme_img/Nodesindex.PNG" width="600">
 </p>
 
-The input file is Truss.xlsx
+The input file is <a href="https://github.com/emadfrj/FEM-analysis-of-Truss-structures-using-Matlab/blob/main/Truss.xlsx">Truss.xlsx</a> 
+
 
 By calling solveTruss function (solveTruss('Truss.xlsx')) we would have the results like the following picture.
 
 <p float="middle">
-    <img src="readme_img/Result.png" width="600">
+    <img src="readme_img/results.PNG" width="600">
 </p>
 
 
