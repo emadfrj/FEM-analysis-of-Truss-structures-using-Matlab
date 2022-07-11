@@ -3,7 +3,7 @@
 ![language - MATLAB](https://img.shields.io/badge/language-MATLAB-blue)
 ![category - science](https://img.shields.io/badge/category-science-lightgrey)
 
-This **MATLAB** toolbox can be used to solve complex 2D truss structures using finite element analysis.
+This **MATLAB** toolbox can be used to solve complex 2D truss structures using finite element analysis. It reads the question inputs from an excel file.
 
 It takes three types of **boundary condition** into account.
 * Fixed boundary condition with **zero displacement** of a node for each direction.
