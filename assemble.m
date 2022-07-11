@@ -5,7 +5,6 @@ function K=assemble(Node,Element,k)
 d=size(Node,2)-1; %degree of freedom
 n=size(Element,1);%number of elements
 K=zeros(d*size(Node,1),d*size(Node,1)); %K assembled
-% fjgfhfj
 
 for i=1:n
    ne = Element(i,1);% number of nodes in element
